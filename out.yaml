@@ -1,0 +1,16 @@
+- Node: kubemaster
+  cpu:                2
+  ephemeral-storage:  47316595429
+  hugepages-1Gi:      0
+  hugepages-2Mi:      0
+  memory:             1938320Ki
+  pods:               110
+
+- Node: kubenode01
+  cpu:                2
+  ephemeral-storage:  47316595429
+  hugepages-1Gi:      0
+  hugepages-2Mi:      0
+  memory:             1938320Ki
+  pods:               110
+

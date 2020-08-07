@@ -1,0 +1,1 @@
+kubeadm join 192.168.56.2:6443 --token lnqbw0.6j764f2wqapem9s1                                             --discovery-token-ca-cert-hash sha256:8f08a538436a9b1a6d5d72a882ed1b9033bcc0e770fa623e57f193fecd27f960
